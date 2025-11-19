@@ -347,7 +347,7 @@ export const SkillsInfo = [
    {
     id: 0,
     title: "DSA MastermMind - MCQ Elimination Round of Code Clash - The Battle of Logic & Code By Lets Code Community",
-    organization: "Forage",
+    organization: "Unstop",
     date: "June 29 2025",
     image: dsacodeLogo,
     link: "https://drive.google.com/file/d/1-rCF_IA8GMFLLBPrBVa1BOzwMgz25FYo/view?usp=sharing",
