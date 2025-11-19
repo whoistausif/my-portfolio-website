@@ -62,6 +62,8 @@ import agileLogo from './assets/certificates/agile.jpg';
 import GendevLogo from './assets/certificates/gendev.jpg';
 import comp101Logo from './assets/certificates/comp101.jpg';
 import deepdevLogo from './assets/certificates/deepdev.jpg';
+import hackLogo from './assets/certificates/hackathon.jpg';
+import dsacodeLogo from './assets/certificates/dsa.jpg';
 
 // 🧠 Skills Information
 export const SkillsInfo = [
@@ -334,7 +336,24 @@ export const SkillsInfo = [
   ];  
 
   export const certificates = [
-  {
+   {
+    id: 0,
+    title: "Ai Agent Hackathon By Product Space",
+    organization: "Unstop",
+    date: "October 31 2025",
+    image: hackLogo,
+    link: "https://drive.google.com/file/d/1IInU4cfW2oxgwgQSmCRTS28ahUeKzQyP/view?usp=sharing",
+  },
+   {
+    id: 0,
+    title: "DSA MastermMind - MCQ Elimination Round of Code Clash - The Battle of Logic & Code By Lets Code Community",
+    organization: "Forage",
+    date: "June 29 2025",
+    image: dsacodeLogo,
+    link: "https://drive.google.com/file/d/1-rCF_IA8GMFLLBPrBVa1BOzwMgz25FYo/view?usp=sharing",
+  },
+   
+    {
     id: 0,
     title: "Deloitte Australia - Data Analytics Job Simulation",
     organization: "Forage",
