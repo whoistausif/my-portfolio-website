@@ -19,7 +19,6 @@ This portfolio website serves as a professional showcase of my work. It’s buil
 - Contact information
 - Fast and lightweight design
 
-*(Customize this list based on your actual features!)*
 
 ## 🛠 Technologies Used
 
@@ -29,7 +28,6 @@ The project is built with the following technologies:
 - **Tailwind CSS** – Utility-first CSS framework
 - **JavaScript** – Core scripting language
 
-*(Update this section with any additional libraries or tools you used)*
 
 ## 🧩 Installation & Setup
 
