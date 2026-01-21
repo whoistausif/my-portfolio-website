@@ -5,10 +5,7 @@ This repository contains the source code for my personal developer portfolio —
 
 ## 🚀 Live Demo
 
-🔗 *If deployed (GitHub Pages, Vercel, Netlify, etc.), add your live site URL here.*
-
-Example:  
-👉 https://whoistausif.github.io/my-portfolio-website/
+🔗 https://my-portfolio-website-tau-murex.vercel.app/
 
 ## 🧠 About The Project
 
